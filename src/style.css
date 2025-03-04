@@ -399,11 +399,11 @@ nav ul li a:hover::before{
     }
     .left h1{
 
-        margin-top: 25px;
+        margin-top: 50px;
         font-size: 40px;
     }
     .left{
-        margin: 0 -30px;
+        margin: 0 -40px;
     }
     #home{
         margin: 100px  30px ;
